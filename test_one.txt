@@ -1,0 +1,6 @@
+<ul>
+	<Li>Apples</Li>
+	<Li>Bananas</Li>
+	<Li>Milk</Li>
+	<Li>Vegetables</Li>
+</ul>
